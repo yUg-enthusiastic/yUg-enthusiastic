@@ -13,7 +13,7 @@ _Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Di
  *enlace de descarga oficial; https://rustdesk.com/* (Windows/Linux).
 
 ## 
-› › › *Información*; 
+*Información*; 
 ```python 
 class whoami
        user = 'yug'
