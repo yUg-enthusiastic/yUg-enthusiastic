@@ -6,6 +6,8 @@
 
 _Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Distribución Linux Favorita Es "Arch Linux" o Basada En Arch. Me gusta seguir proyectos que conlleva y sea fundamental la privacidad en la Informática e Internet_. 
 
+Practicó mucho en Termux. <code><img height="20" src="https://user-images.githubusercontent.com/98203050/181650910-5a251c28-1017-42ba-a241-be6b9a1bc333.png"></code>
+
 **"la privacidad es un derecho humano"**
 
 ![descarga](https://user-images.githubusercontent.com/98203050/181595292-98598063-8811-4720-8430-f13c049ed045.gif)
