@@ -11,7 +11,7 @@ _Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Di
 - Administró/Optimizó/Limpieza de Pc/Laptop Remotamente Usó Software RustDesk.
  *enlace de descarga oficial; https://rustdesk.com/* (Windows/Linux).
 
-## Yo
+## Información
 ```python 
 class WhoAmI
        user = 'yug'
