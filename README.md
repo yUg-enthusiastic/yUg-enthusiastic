@@ -4,7 +4,7 @@
 
 ★ Hola 👽, mi nombre es YUG.</h1>
 
-_Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Distribución Linux Favorita Es "Arch Linux" o Basada En Arch. Me gusta seguir proyectos que conlleven  y sea fundamental la privacidad en la Informática e Internet_. 
+_Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Distribución Linux Favorita Es "Arch Linux" o Basada En Arch. Me gusta seguir proyectos que conlleva y sea fundamental la privacidad en la Informática e Internet_. 
 
 **"la privacidad es un derecho humano"**
 
