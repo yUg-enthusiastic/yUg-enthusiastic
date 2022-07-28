@@ -17,12 +17,19 @@ class WhoAmI
        user = 'yug'
               current_work = 'SysAdmin'
               hobbies = [
-                              'Watching 
-                               Reading
+                              'Watching Own Light
+                               Learding Code, Errors 
                                Being up all night chasing that one BUG...'
                       ]
 
-
+def getCity():
+		return Bogotá_COL()
+	
+	def Ambitions():
+	        KNOWLEDGE()
+		STRICT()
+		BE DIFFERENT()
+	
 
 ```
 <h3 align="left">Aprendiendo:</h3>
