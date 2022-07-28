@@ -19,7 +19,7 @@ _Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Di
 ```python 
 class whoami
        user = 'yug'
-              current_work = 'SysAdmin'
+              current_work = 'Gardener, SysAdmin'
               hobbies = [
                               'Watching Own Light'  
                               'Practice a lot in Termux'  
