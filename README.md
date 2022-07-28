@@ -2,7 +2,7 @@
   <center>
 <h1 align="center">‹/ Bienvenidos A Mi Perfil /›</h1>
 
-★ Hola 👽, mi nombre es YUG</h1>
+★ Hola 👽, mi nombre es YUG.</h1>
 
 _Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Distribución Linux Favorita Es "Arch Linux" o Basada En Arch._
 
@@ -13,9 +13,9 @@ _Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Di
  *enlace de descarga oficial; https://rustdesk.com/* (Windows/Linux).
 
 ## 
-› › › *Información*
+› › › *Información*; 
 ```python 
-class WhoAmI
+class whoami
        user = 'yug'
               current_work = 'SysAdmin'
               hobbies = [
