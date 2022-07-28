@@ -17,8 +17,7 @@ class WhoAmI
        user = 'yug'
               current_work = 'SysAdmin'
               hobbies = [
-                              'Watching Own Light
-                               Learding Code, Errors'
+                              'Watching Own Light'                               
                       ]
 
 def getCity():
@@ -28,7 +27,7 @@ def getCity():
 	        KNOWLEDGE()
 		STRICT()
 		BE DIFFERENT()
-	
+	        STUDIED HARD()
 
 ```
 <h3 align="left">Aprendiendo:</h3>
