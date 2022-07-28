@@ -11,6 +11,20 @@ _Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Di
 - Administró/Optimizó/Limpieza de Pc/Laptop Remotamente Usó Software RustDesk.
  *enlace de descarga oficial; https://rustdesk.com/* (Windows/Linux).
 
+## Yo
+```python 
+class WhoAmI
+       user = 'yug'
+              current_work = 'SysAdmin'
+              hobbies = [
+                              'Watching 
+                               Reading
+                               Being up all night chasing that one BUG...'
+                      ]
+
+
+
+```
 <h3 align="left">Aprendiendo:</h3>
 
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a
