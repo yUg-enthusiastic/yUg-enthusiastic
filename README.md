@@ -18,7 +18,8 @@ class WhoAmI
               current_work = 'SysAdmin'
               hobbies = [
                               'Watching Own Light'  
-                              'Practice a lot in Termux'                            
+                              'Practice a lot in Termux'  
+                              'Meditate zero stress'
                       ]
 
 def getCity():
