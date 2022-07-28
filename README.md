@@ -17,7 +17,8 @@ class WhoAmI
        user = 'yug'
               current_work = 'SysAdmin'
               hobbies = [
-                              'Watching Own Light'                               
+                              'Watching Own Light'  
+                              'Practice a lot in Termux'                            
                       ]
 
 def getCity():
@@ -28,6 +29,8 @@ def getCity():
 		STRICT()
 		BE DIFFERENT()
 	        STUDIED HARD()
+                practice makes perfect, right?()
+     
 
 ```
 <h3 align="left">Aprendiendo:</h3>
