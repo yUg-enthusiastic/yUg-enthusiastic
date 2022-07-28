@@ -5,7 +5,7 @@
 
 - Administró/Optimizó/Limpieza de Pc/Laptop Remotamente Usó Software RustDesk.
  *enlace de descarga oficial; https://rustdesk.com/* (Windows/Linux).
-![21116158daaeb1459b4ec0758505e1ad](https://user-images.githubusercontent.com/98203050/181585657-ee8e5c90-12da-4597-b3dd-8f777910f996.gif)
+![2f45a2bfde367d5608532bb880f6a64d](https://user-images.githubusercontent.com/98203050/181596490-0c2374aa-17f7-4569-8f17-a82e3e31ff16.gif)
 
 <h3 align="left">Languages and Tools:</h3>
 
