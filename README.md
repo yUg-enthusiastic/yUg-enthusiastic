@@ -18,12 +18,11 @@ class WhoAmI
               current_work = 'SysAdmin'
               hobbies = [
                               'Watching Own Light
-                               Learding Code, Errors 
-                               Being up all night chasing that one BUG...'
+                               Learding Code, Errors'
                       ]
 
 def getCity():
-		return Bogotá_COL()
+		return Bogota.Colombia()
 	
 	def Ambitions():
 	        KNOWLEDGE()
