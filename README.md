@@ -1,7 +1,7 @@
 <body>
   <center>
 <h1 align="center"> ‹/ Bienvenidos A Mi Perfil /› </h1>
->> Hola 👋, Soy YUG</h1>
+>> Hola 👋, mi nombre es YUG</h1>
 
 _Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Distribución Linux Favorita Es "Arch Linux"._
 
