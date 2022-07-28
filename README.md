@@ -2,7 +2,7 @@
 <h3 align="center">Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas y Mi Distribución Favorita Es "Arch Linux". Estoy Aprendiendo El Lenguaje Python</h3>
 
 - Administró/Optimizó/Limpieza de Pc/Laptop Remotamente Usó Software RustDesk.
-
+ *enlace de descarga oficial; https://rustdesk.com/*
 ![21116158daaeb1459b4ec0758505e1ad](https://user-images.githubusercontent.com/98203050/181585657-ee8e5c90-12da-4597-b3dd-8f777910f996.gif)
 
 <h3 align="left">Languages and Tools:</h3>
