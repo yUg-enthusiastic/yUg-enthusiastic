@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, Soy YUG</h1>
-<h3 align="center">Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Distribución Linux Favorita Es "Arch Linux". Estoy Aprendiendo Lenguaje Python</h3>
+
+_Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Distribución Linux Favorita Es "Arch Linux". Estoy Aprendiendo Lenguaje Python_
 
 ![descarga](https://user-images.githubusercontent.com/98203050/181595292-98598063-8811-4720-8430-f13c049ed045.gif)
 
