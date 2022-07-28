@@ -11,6 +11,8 @@ _Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Di
 
 - Administró/Optimizó/Limpieza de Pc/Laptop Remotamente Usó Software RustDesk.
  *enlace de descarga oficial; https://rustdesk.com/* (Windows/Linux).
+ 
+> Me gusta seguir proyectos que conlleven  y sea fundamental la privacidad
 
 ## 
 *Información*; 
@@ -32,6 +34,7 @@ def getCity():
 		STRICT()
 		BE DIFFERENT()
 	        STUDIED HARD()
+                DISCIPLINED()
                 practice makes perfect, right?()
      
 
