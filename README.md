@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Soy YUG</h1>
 <h3 align="center">Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas y Mi Distribución Linux Favorita Es "Arch Linux". Estoy Aprendiendo El Lenguaje Python</h3>
 
+![cc941d7de330c8a](https://user-images.githubusercontent.com/98203050/181594853-7a6485c2-5de0-45c9-ad4c-bfaaa3f28b9c.gif)
+
 - Administró/Optimizó/Limpieza de Pc/Laptop Remotamente Usó Software RustDesk.
  *enlace de descarga oficial; https://rustdesk.com/* (Windows/Linux).
 ![21116158daaeb1459b4ec0758505e1ad](https://user-images.githubusercontent.com/98203050/181585657-ee8e5c90-12da-4597-b3dd-8f777910f996.gif)
