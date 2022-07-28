@@ -3,7 +3,7 @@
 <h1 align="center"> ‹/ Bienvenidos A Mi Perfil /› </h1>
 >> Hola 👋, mi nombre es YUG</h1>
 
-_Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Distribución Linux Favorita Es "Arch Linux"._
+_Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Distribución Linux Favorita Es "Arch Linux" o Basada En Arch._
 
 ![descarga](https://user-images.githubusercontent.com/98203050/181595292-98598063-8811-4720-8430-f13c049ed045.gif)
 
