@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy YUG</h1>
-<h3 align="center">Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas y Mi Distribución Favorita Es "Arch Linux". Estoy Aprendiendo El Lenguaje PythonPython</h3>
+<h3 align="center">Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas y Mi Distribución Favorita Es "Arch Linux". Estoy Aprendiendo El Lenguaje Python</h3>
 
 - Administró/Optimizó/Limpieza de Pc/Laptop Remotamente Usó Software RustDesk.
 
