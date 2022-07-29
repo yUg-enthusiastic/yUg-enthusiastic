@@ -56,13 +56,14 @@ One of my biggest ambitions is to create an IA for music()
 
  • *Sistema Operativo Alternativo/Pentesting*
  
-![90540808](https://user-images.githubusercontent.com/98203050/181842371-5edf6c17-a859-4a33-b3ec-18bde3e87075.png)
+![90540808](https://user-images.githubusercontent.com/98203050/181842371-5edf6c17-a859-4a33-b3ec-18bde3e87075.png)</code>
 
  [Woof OS](https://woof-os.github.io/)
 
-![Parrot_Logo](https://user-images.githubusercontent.com/98203050/181843563-5075d248-b0a6-46cb-b865-4c676f6f7fcb.png) 
-[Parrot OS](https://www.parrotsec.org/download/)
-##
+
+
+
+	  
 *Aprendiendo:*
 
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a
