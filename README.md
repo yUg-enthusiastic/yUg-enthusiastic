@@ -60,7 +60,8 @@ One of my biggest ambitions is to create an IA for music()
 
  [Woof OS](https://woof-os.github.io/)
 
-
+![logo](https://user-images.githubusercontent.com/98203050/181844333-e617d02c-381c-4f16-b92f-9342f76d0d14.jpg)
+[Parrot OS](https://www.parrotsec.org/download/) 
 
 
 	  
