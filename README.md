@@ -5,7 +5,7 @@
 ★ Hola 👽, mi nombre es YUG.</h1>
 
 _Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Distribución Linux Favorita Es 
-<code><img height="20" src="https://user-images.githubusercontent.com/98203050/181651332-6b2a0314-ad41-4028-873b-c4f05a5a6299.png"></code> o Basada En Arch. Me gusta seguir proyectos que conlleva y sea fundamental la privacidad en la Informática e Internet_. 
+<code><img height="20" src="https://user-images.githubusercontent.com/98203050/181651332-6b2a0314-ad41-4028-873b-c4f05a5a6299.png"></code> o Basada En Arch. Me gusta seguir proyectos que conlleva y sea fundamental la privacidad en la Informática e Internet_.
 
 "LA PRIVACIDAD ES UN DERECHO HUMANO".
 
