@@ -53,6 +53,10 @@ One of my biggest ambitions is to create an IA for music()
      
 
 ```
+
+ • *Sistema Operativo Alternativo/Pentesting*
+ 
+
 ##
 *Aprendiendo:*
 
