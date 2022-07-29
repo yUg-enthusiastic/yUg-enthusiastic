@@ -13,14 +13,16 @@ Practicó mucho en Termux. <code><img height="20" src="https://user-images.githu
 
 -------------
 
+*Trabajo:*
+
 - Administró/Optimizó/Limpieza de Pc/Laptop Remotamente Usó Software RustDesk.
  *enlace de descarga oficial; https://rustdesk.com/* 
-  
-Dispositivos; (Windows/Linux/Mac/Android/iOS/Web-Cliente "Beta").
 
 > *Soporte Remotamente;*
 
 <code><img height="50" src="https://user-images.githubusercontent.com/98203050/181654931-4232f754-afa1-4f67-b111-805fefc0cece.png"></code>
+
+-------------
 
 ## 
 *Información*; 
