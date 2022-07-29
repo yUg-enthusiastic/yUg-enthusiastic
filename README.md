@@ -7,9 +7,10 @@
 _Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Distribución Linux Favorita Es 
 <code><img height="20" src="https://user-images.githubusercontent.com/98203050/181651332-6b2a0314-ad41-4028-873b-c4f05a5a6299.png"></code> o Basada En Arch. Me gusta seguir proyectos que conlleva y sea fundamental la privacidad en la Informática e Internet_. 
 
-Practicó mucho en Termux. <code><img height="20" src="https://user-images.githubusercontent.com/98203050/181650910-5a251c28-1017-42ba-a241-be6b9a1bc333.png"></code>
+"LA PRIVACIDAD ES UN DERECHO HUMANO".
 
-**"la privacidad es un derecho humano"**
+Practicó mucho en [Termux](https://f-droid.org/en/packages/com.termux/) <code><img height="20" src="https://user-images.githubusercontent.com/98203050/181650910-5a251c28-1017-42ba-a241-be6b9a1bc333.png"></code>
+
 
 -------------
 
@@ -17,8 +18,8 @@ Practicó mucho en Termux. <code><img height="20" src="https://user-images.githu
 
 ![d0b5d7751b2cde2c387bb376b94146a3](https://user-images.githubusercontent.com/98203050/181757553-1c10553b-6a1a-4c2b-bae6-c3aed9444bf7.gif)
 
-- Administró/Optimizó/Limpieza de Pc/Laptop Remotamente Usó Software RustDesk.
- *enlace de descarga oficial; https://rustdesk.com/* 
+- Administró/Optimizó/Limpieza de Pc/Laptop Remotamente Usó Software [RustDesk](https://rustdesk.com/)
+ 
 
 > *Soporte Remotamente;*
 
