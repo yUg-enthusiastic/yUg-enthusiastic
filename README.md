@@ -60,8 +60,6 @@ src=<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img sr
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> </p>
 
 ##
-
-![6ed5d17edc7859c15e4ba8b83186f3c6](https://user-images.githubusercontent.com/98203050/181758307-fe4705fb-6230-42fb-82e7-bebd075a7b80.gif)
 <!--END_SECTION:waka-->
 *Si te gustó este archivo _Readme_, Por Favor Click en Estrella y Agradezco tu visita en mi Perfil*
 
