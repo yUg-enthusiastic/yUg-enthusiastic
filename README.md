@@ -5,7 +5,7 @@
 ★ Hola 👽, mi nombre es YUG.</h1>
 
 _Soy Entusiasta Informático / Código Libre, Administrador De Sistemas, Mi Distribución Linux Favorita Es 
-<code><img height="25" src="https://user-images.githubusercontent.com/98203050/181651332-6b2a0314-ad41-4028-873b-c4f05a5a6299.png"></code> o Basada En Arch. Me gusta seguir proyectos que conlleva y sea fundamental la privacidad en la Informática e Internet_. 
+<code><img height="20" src="https://user-images.githubusercontent.com/98203050/181651332-6b2a0314-ad41-4028-873b-c4f05a5a6299.png"></code> o Basada En Arch. Me gusta seguir proyectos que conlleva y sea fundamental la privacidad en la Informática e Internet_. 
 
 Practicó mucho en Termux. <code><img height="20" src="https://user-images.githubusercontent.com/98203050/181650910-5a251c28-1017-42ba-a241-be6b9a1bc333.png"></code>
 
@@ -20,7 +20,7 @@ Practicó mucho en Termux. <code><img height="20" src="https://user-images.githu
 
 > *Soporte Remotamente;*
 
-<code><img height="50" src="https://user-images.githubusercontent.com/98203050/181654931-4232f754-afa1-4f67-b111-805fefc0cece.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/98203050/181654931-4232f754-afa1-4f67-b111-805fefc0cece.png"></code>
 
 -------------
 
