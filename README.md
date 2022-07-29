@@ -25,7 +25,7 @@ Practicó mucho en Termux. <code><img height="20" src="https://user-images.githu
 -------------
 
 ## 
-*Información*; 
+*Sobre Mí*; 
 ```python 
 class whoami
        user = 'yug'
