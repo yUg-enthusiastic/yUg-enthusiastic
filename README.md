@@ -53,8 +53,7 @@ One of my biggest ambitions is to create an IA for music()
      
 
 ```
-
- <center>*Sistema Operativo Alternativo/Pentesting*</center>
+› › › Sistema Operativo Alternativo/Pentesting
  
 ![90540808](https://user-images.githubusercontent.com/98203050/181842371-5edf6c17-a859-4a33-b3ec-18bde3e87075.png)</code>
 
