@@ -71,11 +71,5 @@ One of my biggest ambitions is to create an IA for music()
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yUg-enthusiastic)
 
-chat
-
- @neaaa:matrix.org
-
-(Utopia P2P-key public) 11fc4fbca7b719c729d396ef3903d00c7e37a650f2b286dfb1b7f5c30d8aed5f
-
-🎈 By [yug](https://github.com/yUg-enthusiastic) 
+By [yug](https://github.com/yUg-enthusiastic) 
 
