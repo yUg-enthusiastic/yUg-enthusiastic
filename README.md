@@ -59,7 +59,7 @@ One of my biggest ambitions is to create an IA for music()
 ![90540808](https://user-images.githubusercontent.com/98203050/181842371-5edf6c17-a859-4a33-b3ec-18bde3e87075.png)</code>
 
 [Woof OS](https://woof-os.github.io/) 
-<h5><center><a href="https://github.com/woof-os" target ="_blank">Enlace GitHub</a></center></h5>
+
 <cite><strong>"basada en Arch"</strong></cite>
 
 
