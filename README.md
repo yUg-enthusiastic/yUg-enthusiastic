@@ -15,7 +15,7 @@ Practicó mucho en [Termux](https://f-droid.org/en/packages/com.termux/) <code><
 -------------
 
 *Trabajo:*
-- Administró/Optimizó/Limpieza de Pc/Laptop Remotamente Usó Software [RustDesk](https://rustdesk.com/)
+- Administro/Optimizo/Limpieza de Pc/Laptop Remotamente Usó Software [RustDesk](https://rustdesk.com/)
  
 
 > *Soporte Remotamente;*
