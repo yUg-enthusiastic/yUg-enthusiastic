@@ -67,9 +67,5 @@ One of my biggest ambitions is to create an IA for music()
 
 
 -------------
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yUg-enthusiastic)
-
 By [yug](https://github.com/yUg-enthusiastic) 
 
