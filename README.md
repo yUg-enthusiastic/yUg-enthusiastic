@@ -20,7 +20,7 @@ Practicó mucho en [Termux](https://f-droid.org/en/packages/com.termux/) <code><
 
 > *Soporte Remotamente;*
 
-<code><img height="32" src="https://user-images.githubusercontent.com/98203050/181654931-4232f754-afa1-4f67-b111-805fefc0cece.png"></code>
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 -------------
 
