@@ -65,6 +65,8 @@ One of my biggest ambitions is to create an IA for music()
 
 <a href='https://cafecito.app/yug-enthusiastic' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' alt='Invitame un café en cafecito.app' /></a>
 
+<a href='https://ko-fi.com/F2F2EJKZB' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 
 By [yug](https://github.com/yUg-enthusiastic) 
 
