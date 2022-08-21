@@ -7,11 +7,6 @@
 _Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Distribución Linux Favorita Es 
 <code><img height="20" src="https://user-images.githubusercontent.com/98203050/181651332-6b2a0314-ad41-4028-873b-c4f05a5a6299.png"></code>. Me gusta seguir proyectos que conlleva y sea fundamental la privacidad en la Informática e Internet_.
 
-<LA PRIVACIDAD ES UN DERECHO HUMANO>
-
-Practicó mucho en [Termux](https://f-droid.org/en/packages/com.termux/) <code><img height="20" src="https://user-images.githubusercontent.com/98203050/181650910-5a251c28-1017-42ba-a241-be6b9a1bc333.png"></code>
-
-
 -------------
 
 *Trabajo:*
