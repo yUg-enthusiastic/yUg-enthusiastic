@@ -4,8 +4,7 @@
 
 ★ Hola 👽, mi nombre es YUG.</h1>
 
-_Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas, Mi Distribución Linux Favorita Es 
-<code><img height="20" src="https://user-images.githubusercontent.com/98203050/181651332-6b2a0314-ad41-4028-873b-c4f05a5a6299.png"></code>. Me gusta seguir proyectos que conlleva y sea fundamental la privacidad en la Informática e Internet_.
+_Soy Entusiasta Informático / Código Abierto, Administrador De Sistemas. Me gusta seguir proyectos que conlleva y sea fundamental la privacidad en la Informática e Internet_.
 
 -------------
 
@@ -45,13 +44,6 @@ One of my biggest ambitions is to create an IA for music()
      
 
 ```
-› › › Sistema Operativo Alternativo/Pentesting
- 
-![90540808](https://user-images.githubusercontent.com/98203050/181842371-5edf6c17-a859-4a33-b3ec-18bde3e87075.png)</code>
-
-[Woof OS](https://woof-os.github.io/) 
-
-<cite><strong>"basada en Arch"</strong></cite>
 
 
 <center><h2>Aprendiendo Lenguajes</h2></center>
